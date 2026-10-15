@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.local
+# Se o seu vídeo ainda estiver dando problemas de tamanho, você pode descomentar a linha abaixo:
+# public/videosDunas.mp4
